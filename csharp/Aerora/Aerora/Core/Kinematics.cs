@@ -7,16 +7,14 @@ using Newtonsoft.Json;
 
 namespace Aerora.Core
 {
-
-  
-
-
   public class Kinematics : Master
   {
     public string CalculateLeftLeg()
     {
       string result;
 
+      DXL dxl1 = new DXL(1,"XM");
+      result = $"{dxl1.GetDegree}";
 
       return result;
     }

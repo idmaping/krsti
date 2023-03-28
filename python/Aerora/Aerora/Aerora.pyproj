@@ -22,6 +22,26 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Aerora.py" />
+    <Compile Include="Core\Config.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\group_bulk_read.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\group_bulk_write.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\group_sync_read.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\group_sync_write.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\packet_handler.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\port_handler.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\protocol1_packet_handler.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\protocol2_packet_handler.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\robotis_def.py" />
+    <Compile Include="Core\Service\dynamixel_sdk\__init__.py" />
+    <Compile Include="Core\Service\Service.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Core\" />
+    <Folder Include="Core\Service\dynamixel_sdk\" />
+    <Folder Include="Core\Service\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

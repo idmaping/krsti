@@ -10,8 +10,18 @@ namespace Aerora
     
     static void Main(string[] args)
     {
-      Kinematics k = new Kinematics();
-      Console.WriteLine(k.CalculateLeftLeg());
+      XLService xLService= new XLService();
+      XMService xMService = new XMService();
+
+      List<DXLServiceBase> services = new List<DXLServiceBase>();
+      services.Add(xLService);
+      services.Add(xMService);
+
+      foreach(DXLServiceBase service in services)
+      {
+        service.Execute();
+      }
+
     }
   }
 }
