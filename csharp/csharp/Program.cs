@@ -1,4 +1,5 @@
 ﻿using System;
+using dynamixel_sdk;
 
 namespace charp
 {

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "h3LxOLcZc0zPjBbHSZg0tPLuzUL1HoCmBBAzeSMD05JHQxWB04o/56+DKDDpqXa4TRHfm+yHpj4d7+GshhZGhA==",
+  "dgSpecHash": "8jY5SJnxAZ//gxiC3q07CFmwt1J33vqrPVCJ6QqJHcPgZPtb0Jci3bnzH4iIcoYaqqTEd7NNc/V0JVEPiQoojA==",
   "success": true,
   "projectFilePath": "D:\\krsti\\csharp\\csharp\\csharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\dynamixelsdksharp\\1.1.6906.41039\\dynamixelsdksharp.1.1.6906.41039.nupkg.sha512",
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
