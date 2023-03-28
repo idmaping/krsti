@@ -1,0 +1,15 @@
+D:\krsti\csharp\csharp\bin\Debug\net6.0\csharp.exe
+D:\krsti\csharp\csharp\bin\Debug\net6.0\csharp.deps.json
+D:\krsti\csharp\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+D:\krsti\csharp\csharp\bin\Debug\net6.0\csharp.dll
+D:\krsti\csharp\csharp\bin\Debug\net6.0\csharp.pdb
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.dll
+D:\krsti\csharp\csharp\obj\Debug\net6.0\refint\csharp.dll
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.pdb
+D:\krsti\csharp\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+D:\krsti\csharp\csharp\obj\Debug\net6.0\ref\csharp.dll
