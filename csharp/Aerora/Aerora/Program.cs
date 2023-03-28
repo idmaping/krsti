@@ -11,7 +11,7 @@ namespace Aerora
     static void Main(string[] args)
     {
       Kinematics k = new Kinematics();
-      k.Run();
+      Console.WriteLine(k.CalculateLeftLeg());
     }
   }
 }

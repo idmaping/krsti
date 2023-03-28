@@ -20,5 +20,5 @@
     </None>
   </ItemGroup>
 
-  <ProjectExtensions><VisualStudio><UserProperties aerora_1config_4config_1json__JsonSchema="https://json-schema.org/draft-04/schema" /></VisualStudio></ProjectExtensions>  
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>  
 </Project>

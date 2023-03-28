@@ -7,16 +7,18 @@ using Newtonsoft.Json;
 
 namespace Aerora.Core
 {
-  public class Kinematics
+
+  
+
+
+  public class Kinematics : Master
   {
-    LeftLegConfig _LeftLegConfig = JsonConvert.DeserializeObject<LeftLegConfig>(File.ReadAllText(@".\Config\LeftLeg.json"));
-    RightLegConfig _RightLegConfig = JsonConvert.DeserializeObject<RightLegConfig>(File.ReadAllText(@".\Config\RightLeg.json"));
-    public void Run()
+    public string CalculateLeftLeg()
     {
-      Console.WriteLine(_LeftLegConfig.Femur);
-      Console.WriteLine(_RightLegConfig.Femur);
+      string result;
 
+
+      return result;
     }
-
   }
 }
