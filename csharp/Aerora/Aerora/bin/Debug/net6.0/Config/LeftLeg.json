@@ -1,5 +1,17 @@
 {
-  "Tibia": 22.11,
-  "Femur": 11.11,
-  "SimMode": false
+  "Femur": 0.11,
+  "Tibia": 0.11,
+  "SimMode": true,
+  "JointA_DXLID": 16,
+  "JointA_DXLType": "XM",
+  "JointB_DXLID": 18,
+  "JointB_DXLType": "XM",
+  "JointC_DXLID": 20,
+  "JointC_DXLType": "XM",
+  "JointD_DXLID": 22,
+  "JointD_DXLType": "XM",
+  "JointE_DXLID": 24,
+  "JointE_DXLType": "XM",
+  "JointF_DXLID": 26,
+  "JointF_DXLType": "XM"
 }

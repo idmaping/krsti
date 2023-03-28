@@ -11,12 +11,18 @@ namespace Aerora.Core
     public double Femur { get; set; }
     public double Tibia { get; set; }
     public bool SimMode { get; set; }
-    public int IDJointA { get; set; }
-    public int IDJointB { get; set; }
-    public int IDJointC { get; set; }
-    public int IDJointD { get; set; }
-    public int IDJointE { get; set; }
-    public int IDJointF { get; set; }
+    public int JointA_DXLID { get; set; }
+    public string JointA_DXLType { get; set; }
+    public int JointB_DXLID { get; set; }
+    public string JointB_DXLType { get; set; }
+    public int JointC_DXLID { get; set; }
+    public string JointC_DXLType { get; set; }
+    public int JointD_DXLID { get; set; }
+    public string JointD_DXLType { get; set; }
+    public int JointE_DXLID { get; set; }
+    public string JointE_DXLType { get; set; }
+    public int JointF_DXLID { get; set; }
+    public string JointF_DXLType { get; set; }
   }
 
 }

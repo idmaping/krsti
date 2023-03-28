@@ -2,10 +2,16 @@
   "Femur": 0.11,
   "Tibia": 0.11,
   "SimMode": true,
-  "IDJointA": 15,
-  "IDJointB": 17,
-  "IDJointC": 19,
-  "IDJointD": 21,
-  "IDJointE": 23,
-  "IDJointF": 25
+  "JointA_DXLID": 15,
+  "JointA_DXLType": "XM",
+  "JointB_DXLID": 17,
+  "JointB_DXLType": "XM",
+  "JointC_DXLID": 19,
+  "JointC_DXLType": "XM",
+  "JointD_DXLID": 21,
+  "JointD_DXLType": "XM",
+  "JointE_DXLID": 23,
+  "JointE_DXLType": "XM",
+  "JointF_DXLID": 25,
+  "JointF_DXLType": "XM"
 }
