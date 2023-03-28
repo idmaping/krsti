@@ -1,0 +1,11 @@
+{
+  "Femur": 0.11,
+  "Tibia": 0.11,
+  "SimMode": true,
+  "IDJointA": 16,
+  "IDJointB": 17,
+  "IDJointC": 20,
+  "IDJointD": 22,
+  "IDJointE": 24,
+  "IDJointF": 26
+}
