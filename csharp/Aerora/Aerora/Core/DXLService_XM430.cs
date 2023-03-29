@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Aerora.Core
 {
-  public class DXLService_XM430 : DXLServiceBase
+  public class DXLService_XM430 
   {
     
   }

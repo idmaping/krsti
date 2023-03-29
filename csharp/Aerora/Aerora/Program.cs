@@ -1,7 +1,7 @@
 ﻿using Aerora.Core;
 using System;
 using System.Reflection;
-
+using dynamixel_sdk;
 namespace Aerora
 {
   
@@ -10,12 +10,12 @@ namespace Aerora
     
     static void Main(string[] args)
     {
-      XLService xLService= new XLService();
-      XMService xMService = new XMService();
+     // XLService xLService= new XLService();
+      //XMService xMService = new XMService();
 
       List<DXLServiceBase> services = new List<DXLServiceBase>();
-      services.Add(xLService);
-      services.Add(xMService);
+    //  services.Add(xLService);
+     // services.Add(xMService);
 
       foreach(DXLServiceBase service in services)
       {
