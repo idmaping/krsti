@@ -10,6 +10,7 @@ namespace Aerora
     
     static void Main(string[] args)
     {
+<<<<<<< HEAD
      // XLService xLService= new XLService();
       //XMService xMService = new XMService();
 
@@ -22,6 +23,9 @@ namespace Aerora
         service.Execute();
       }
 
+=======
+     
+>>>>>>> d927c846bac9bea9842d67d68717731b6127f7d6
     }
   }
 }
